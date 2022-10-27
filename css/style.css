@@ -1,0 +1,34 @@
+/*color*/
+.text-color{
+    color: #CC9900;
+}
+.text-color-link{
+    color: #066488;
+}
+.footer-link-color{
+    color:#C7CE71 ;
+}
+.bg-color{
+    background-color: #CC9900;
+
+}
+.bg-color:hover{
+    background-color: rgba(204, 153, 0, 0.78);
+
+}
+
+.active-btn{
+    background-color: #CC9900;
+}
+.btn-hover:hover{
+    color: #fff;
+    background-color: #CC9900;
+}
+
+/*Height*/
+.h-400{height: 400px;}
+.w-33{
+    width: 84px;
+    height: 84px;
+}
+.h-150{height: 150px}
